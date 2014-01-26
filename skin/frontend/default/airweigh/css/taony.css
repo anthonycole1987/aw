@@ -1,0 +1,15 @@
+
+.leftmain .page-product{padding:10px;}
+.leftmain .page-product .list{ }
+.leftmain .list_arrow{ text-align:left}
+.leftmain .page-product .image{padding:30px; float:left}
+.leftmain .page-product .download_btn{ text-align:right}
+.leftmain .page-product .list .listright{ float:right; width:460px}
+.leftmain .page-product .list .listleft{ float:left; width:215px}
+
+.leftprodcutlist{ background:#ebebeb url(../images/leftprodcutlistbg.jpg) 0 bottom no-repeat; padding-top:15px; height:135px }
+.leftprodcutlist .title{ background:url(../images/leftprodcutlist_title.jpg) 0 0 no-repeat; width:243px; height:22px}
+.leftprodcutlist .porductitem{  width:140px; float:left; position:relative; height:85px}
+.leftprodcutlist .pro_name{ background:url(../images/icon2.gif) 0 4px no-repeat; padding-left:10px; font-size:13px; font-style:italic; color:#1d1d23}
+.leftprodcutlist .pro_img{ position:absolute; right:0; bottom:0}
+.leftprodcutlist .photos{ margin:10px 5px; height:85px}
